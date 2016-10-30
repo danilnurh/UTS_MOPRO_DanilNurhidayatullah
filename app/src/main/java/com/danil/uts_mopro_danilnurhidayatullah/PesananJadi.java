@@ -1,8 +1,6 @@
 package com.danil.uts_mopro_danilnurhidayatullah;
 
-/**
- * Created by Hanep on 29/10/2016.
- */
+
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

@@ -1,10 +1,7 @@
 package com.danil.uts_mopro_danilnurhidayatullah;
 
-/**
- * Created by Hanep on 29/10/2016.
- *
- *
- */
+
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
